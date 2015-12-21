@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">TYMPosDemo</string>
+    <string name="initDevice">初始化设备</string>
+    <string name="connDevice">连接设备</string>
+    <string name="isConnected">是否连接设备</string>
+    <string name="disconnDevice">断开设备</string>
+    <string name="updateWorkingKey">更新工作密钥</string>
+    <string name="getMac">计算Mac</string>
+    <string name="getSN">获取SN号</string>
+    <string name="getCSN">获取PSAM卡号</string>
+    <string name="getVersion">API版本</string>
+    <string name="cancel">取消操作</string>
+    <string name="readCard">复合刷卡</string>
+    <string name="confirmTransaction">确认交易结果</string>
+    <string name="ICTradeResponse">IC卡交易响应</string>
+
+</resources>
